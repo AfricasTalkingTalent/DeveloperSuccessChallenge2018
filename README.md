@@ -6,9 +6,11 @@ Our department revolves around understanding and developing developer ecosystems
 
 ## In this challenge
 
-Describe your experience with your local developer community.(Not less than 500 words)
-What metrics can you use to measure a company's impact in a developer community. (Not less than 500 words)
-You find an eyeglass on the beach and find out that it can tell the future. Looking through it, you see Africa in 100 years. What do you see. (Not less than 500 words)
+1. Describe your experience with your local developer community.(Not less than 500 words)
+
+2. What metrics can you use to measure a company's impact in a developer community. (Not less than 500 words)
+
+3. You find an eyeglass on the beach and find out that it can tell the future. Looking through it, you see Africa in 100 years. What do you see. (Not less than 500 words)
 
 ### Workflow:
 
