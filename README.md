@@ -16,7 +16,7 @@ Our department revolves around understanding and developing developer ecosystems
 
 1. Write your responses on a document and export it as a PDF when you're done.
 
-2.Feel free to write as much as you want, be creative and let us know as much as you think would be useful.
+2. Feel free to write as much as you want, be creative and let us know as much as you think would be useful.
 
 3. After completing the challenge, name your document with your name and phone number eg. MarionShako2547888888
 
